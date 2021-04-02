@@ -45,25 +45,26 @@
   
   .notepad-dlg-search .main .btn-search {
     position: absolute;
-    right: 8px;
-    top: 60px;
+    width:100px;
+    right: 15px;
+    top: 17px;
   }
   
   .notepad-dlg-search .main .btn-cancel {
     width:100px;
-    bottom: 45px;
+    bottom: 67px;
     position: absolute;
-    right: 8px;
+    right: 15px;
   }
   
   .notepad-dlg-search .main .search-direction {
     border: 1px solid #dcdcdc;
     box-sizing: border-box;
     height: 60px;
-    left: 170px;
+    left: 150px;
     padding: 10px 5px;
     position: absolute;
-    top: 115px;
+    top: px;60
     width: 175px;
   }
   
